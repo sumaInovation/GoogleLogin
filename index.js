@@ -7,7 +7,7 @@ app.use(cors({
 }));
 
 
-app.listen(console.log(`server is runnin on port${PORT}`));
+app.listen(console.log(`server is runnin on port ${PORT}`));
 
 
 
